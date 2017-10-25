@@ -24,4 +24,7 @@ int main(){
 	
 	pasang=lr*20;
 	cout<<"Biaya Pasang(Rp)	: "<<pasang<<endl;
+	
+	total=parket+pasang;
+	cout<<"Total Biaya(Rp)		: "<<total<<endl;
 }
