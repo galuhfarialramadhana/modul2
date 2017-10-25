@@ -10,4 +10,6 @@ int main(){
 	double box=lp*8/1000000;
 	
 	double jb, parket, pasang, total;
+	cout<<"Luas Rumah		: ";
+	cin>>lr;
 }
