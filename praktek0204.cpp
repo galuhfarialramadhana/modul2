@@ -8,4 +8,6 @@ int main(){
 	double lp=193*1215;
 	
 	double box=lp*8/1000000;
+	
+	double jb, parket, pasang, total;
 }
