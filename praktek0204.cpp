@@ -6,4 +6,6 @@ int main(){
 	int lr;
 	
 	double lp=193*1215;
+	
+	double box=lp*8/1000000;
 }
