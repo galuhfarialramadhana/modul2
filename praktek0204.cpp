@@ -12,4 +12,7 @@ int main(){
 	double jb, parket, pasang, total;
 	cout<<"Luas Rumah		: ";
 	cin>>lr;
+	
+	cout<<"Luas Rumah		: "<<lr<<" m2"<<endl;
+	cout<<"Luas 1 Box Parket	: "<<box<<" m2"<<endl;
 }
