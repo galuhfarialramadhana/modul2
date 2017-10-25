@@ -21,4 +21,7 @@ int main(){
 	
 	parket=jb*500;
 	cout<<"Biaya Parket(Rp)	: "<<parket<<endl;
+	
+	pasang=lr*20;
+	cout<<"Biaya Pasang(Rp)	: "<<pasang<<endl;
 }
