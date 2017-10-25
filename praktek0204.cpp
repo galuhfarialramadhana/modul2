@@ -18,4 +18,7 @@ int main(){
 	
 	jb=lr/box;
 	cout<<"Jumlah Box Parket	: "<<jb<<endl;
+	
+	parket=jb*500;
+	cout<<"Biaya Parket(Rp)	: "<<parket<<endl;
 }
