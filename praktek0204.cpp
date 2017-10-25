@@ -15,4 +15,7 @@ int main(){
 	
 	cout<<"Luas Rumah		: "<<lr<<" m2"<<endl;
 	cout<<"Luas 1 Box Parket	: "<<box<<" m2"<<endl;
+	
+	jb=lr/box;
+	cout<<"Jumlah Box Parket	: "<<jb<<endl;
 }
